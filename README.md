@@ -1,6 +1,6 @@
-# Demo Book Management App
+# Book Management App
 
-This is a demo book management application built with Spring Boot. It leverages JWT for secure authentication and authorization, and Spring Security for role-based access control. PostgreSQL is used as the database.
+This is a book management application built with Spring Boot. It leverages JWT for secure authentication and authorization, and Spring Security for role-based access control. PostgreSQL is used as the database.
 
 ## Features
 
