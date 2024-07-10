@@ -35,5 +35,5 @@ This is a book management application built with Spring Boot. It leverages JWT f
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/demo-book-management-app.git
+   git clone [https://github.com/your-username/demo-book-management-app.git](https://github.com/dipakkhedkar1104/spring_security_jwt)
    cd demo-book-management-app
