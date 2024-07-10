@@ -6,6 +6,7 @@ This is a book management application built with Spring Boot. It leverages JWT f
 
 - **Spring Boot**: Framework for easy and efficient development.
 - **Spring Security**: Provides security features including role-based access control.
+- **Password Encryption**: Password encryption using BCrypt.
 - **JWT**: JSON Web Token for secure user authentication.
 - **PostgreSQL**: Database management system for storing application data.
 - **Hibernate JPA**: ORM framework for database operations.
@@ -16,6 +17,7 @@ This is a book management application built with Spring Boot. It leverages JWT f
 
 - Java 17
 - Spring Boot 3.1.4
+- BCrypt
 - Spring Security
 - JWT (JSON Web Token)
 - PostgreSQL
